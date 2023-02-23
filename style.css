@@ -1,0 +1,9 @@
+h1{text-align: center; font-family: 'Gajraj One', cursive; }
+
+h2{ color: firebrick; font-family: 'Caesar Dressing', cursive; }
+
+body{background-color:rgba(0, 0, 0, 0.877);}
+.img{display: flex; justify-content: center;}
+p{color: aliceblue;}
+.enfatizar{color: antiquewhite;}
+#negrilla{color: azure;}
